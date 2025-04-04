@@ -7,10 +7,13 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(features="src\\test\\resources\\features",
-								glue="steps",
+								glue="com.orangehrm.steps",
 								stepNotifications=true,
-								dryRun=true,
-								tags="@wip0304a")
+								dryRun=false,
+								tags="@wip0404a",
+								plugin = { "pretty", "json:target/cucumber-reports/Cucumber.json",
+										"html:target/cucumber-reports/reports.html"},
+								monochrome = true)
 public class RegRunner {
 
 }

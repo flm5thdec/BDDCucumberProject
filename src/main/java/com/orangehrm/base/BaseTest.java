@@ -12,7 +12,7 @@ public class BaseTest {
 	
 	public static WebDriver driver;
 	
-	static CommonUtilities common=new CommonUtilities();
+	public static CommonUtilities common=new CommonUtilities();
 	
 	public static void launchApplication()
 	{
@@ -26,7 +26,8 @@ public class BaseTest {
 	
 	public static WebDriver getDriver()
 	{
-		
+		if(driver==null)
+		{
 		String browserName=common.getProperty("browser");
 		
 		switch (browserName) {
@@ -57,7 +58,7 @@ public class BaseTest {
 		}
 
 		
-		
+		}
 		return driver;
 		
 	}

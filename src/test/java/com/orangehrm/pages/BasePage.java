@@ -1,14 +1,19 @@
 package com.orangehrm.pages;
 
+import java.time.Duration;
 import java.util.HashMap;
 
 import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+import com.orangehrm.base.BaseTest;
 
 
-public class BasePage {
+public class BasePage extends BaseTest {
 
 	WebDriver driver;
 	
@@ -42,12 +47,21 @@ public class BasePage {
 		
 		By by=objectRepo.get(logicalName);
 		
+		waitForElementPresence(by);
+		
 		WebElement element=driver.findElement(by);
 		
 		return element;
 		
 		
 	}
+	
+private void waitForElementPresence(By by) {
+		
+		WebDriverWait myWait=new WebDriverWait(driver, Duration.ofSeconds(Long.parseLong(common.getProperty("explicitWait"))));
+		myWait.until(ExpectedConditions.presenceOfElementLocated(by));
+	}
+
 	
 	public void validateTitle(String expTitle)
 	{
