@@ -1,0 +1,156 @@
+Experencied People Projects :
+
+https://www.tillys.com/  e-commerce 
+
+The objective of this project is to develop and maintain a robust test automation framework for Tillys.com 
+using Selenium WebDriver. 
+Tillys.com is a leading online retail platform specializing in apparel, footwear, and accessories. 
+The primary goal of the project is to automate end-to-end testing of the website’s key features, 
+including user registration, product search, shopping cart functionality, checkout process, and payment gateway integration.
+
+***************************************************************************
+https://www.healthnet.com/content/healthnet/en_us.html - Health Care 
+
+
+***************************************************************************
+
+https://www.bankofsingapore.com/homepage.html - banking 
+
+or
+
+https://www.alahli.com/en/pages/personal-banking - banking
+
+***************************************************************************
+Travel Domain
+
+https://www.georgian.travel/?gad_source=1&gclid=Cj0KCQjwna6_BhCbARIsALId2Z14nv6VItzpDVoUtiJKEB4IanSZyUDY2FLkPR2TwmPrM3vq8NiJaeQaAu3eEALw_wcB
+
+
+========================================================================
+
+
+
+for 1 year Experencied : 
+
+1 project   Month 2024 - present 
+
+role : Automation 
+
+==============================================
+
+for 2 year Experencied : 
+
+i) 
+
+1 project   Month 2023 - present 
+
+role : Automation and Functional 
+
+ii) 
+
+2 projects 
+
+project 1 : Month 2024 - present 
+
+role : automation only 
+
+Project 2 : Month 2023 - Month 2024 
+
+role : Functional Testing 
+
+
+==============================================
+
+for 3 year Experencied : 
+
+i) 
+
+1 project   Month 2022 - present 
+
+role : Automation mostly and Functional 
+
+ii) 
+
+2 projects 
+
+project 1 : Month 2023 - present 
+
+role : automation only 
+
+Project 2 : Month 2022 - Month 2023 
+
+role : Functional Testing 
+
+
+==============================================
+
+for 4 year Experencied : 
+
+i) 
+
+2 projects 
+
+project 1 : Month 2023 - present 
+
+role : automation only 
+
+Project 2 : Month 2021 - Month 2023 
+
+role : Functional Testing 
+
+
+ii) 
+
+2 projects 
+
+project 1 : Month 2024 - present 
+
+role : automation only 
+
+Project 2 : Month 2021 - Month 2024 
+
+role : Functional Testing 
+
+==============================================
+
+for 5 year Experencied and above : 
+
+i) 
+
+2 projects 
+
+project 1 : Month 2023 - present 
+
+role : automation only 
+
+Project 2 : Month 2020 - Month 2023 
+
+role : Functional Testing 
+
+ii) 
+
+2 projects 
+
+project 1 : Month 2024 - present 
+
+role : automation only 
+
+Project 2 : Month 2020 - Month 2024 
+
+role : Functional Testing 
+
+iii) 
+
+3 projects 
+
+project 1 : Month 2024 - present 
+
+role : automation only 
+
+Project 2 : Month 2021 - Month 2024 
+
+role : Functional Testing 
+
+Project 3 : Month 2020 - Month 2021 
+
+role : non-it or  support project 
